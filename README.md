@@ -13,20 +13,6 @@ I am a Master’s student in Applied Computer Science at Dalhousie University. P
 
 ### 🧰 Languages, Technologies, and Tools
 
-### 📂 Featured Projects
-
-- **[DalVacationHome](https://github.com/aniketm07/DalVacationHome)**  
-  A serverless vacation home booking app with multi-factor authentication, real-time messaging, and a conversational chatbot for customer support. Built using AWS, GCP, Firebase, and more.
-
-- **[ClickClick](https://github.com/aniketm07/ClickClick)**  
-  A photo-sharing application with automated tagging using Amazon Rekognition and distributed system architecture. Deployed on Google Cloud Run for a seamless user experience.
-
-- **[OmniGPT](https://omnigpt-geeks.netlify.app/)**  
-  A React app integrating multiple GPT models, enhancing usability with conversation exports, JSON imports, and real-time tracking. Visit here ➡️ [Website](https://omnigpt-geeks.netlify.app/)
-
-- **[GrowBiz](https://github.com/aniketm07/GrowBiz)**  
-  A service marketplace where I led backend development, implementing RESTful APIs, TDD practices, and optimizing for maintainability.
-
 ## 📫 Connect with Me
 
 - **Email:** [mhatreaniket121@gmail.com](mailto:mhatreaniket121@gmail.com)
