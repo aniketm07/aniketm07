@@ -22,7 +22,7 @@ I am a Master’s student in Applied Computer Science at Dalhousie University. P
   A photo-sharing application with automated tagging using Amazon Rekognition and distributed system architecture. Deployed on Google Cloud Run for a seamless user experience.
 
 - **[OmniGPT](https://omnigpt-geeks.netlify.app/)**  
-  A React app integrating multiple GPT models, enhancing usability with conversation exports, JSON imports, and real-time tracking.
+  A React app integrating multiple GPT models, enhancing usability with conversation exports, JSON imports, and real-time tracking. Visit here ➡️ [Website](https://omnigpt-geeks.netlify.app/)
 
 - **[GrowBiz](https://github.com/aniketm07/GrowBiz)**  
   A service marketplace where I led backend development, implementing RESTful APIs, TDD practices, and optimizing for maintainability.
