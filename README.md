@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, I'm Aniket Mhatre!
 
-<!--
-**aniketm07/aniketm07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master’s student in Applied Computer Science at Dalhousie University. Passionate about building robust applications and exploring the latest in cloud computing, DevOps, and full-stack development. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently honing my skills in advanced software development, with a focus on **AWS** and **Azure** cloud-native applications.
+- 💼 Former Software Engineer at **Oracle** (OFSS) with extensive experience in backend optimization.
+- 🔭 Skilled in building scalable **microservices**, implementing secure APIs, and creating interactive web applications.
+- 🏆 Awarded **‘Rising Star’** for providing exceptional triage support to cross-functional teams at Oracle.
+- ☕ **Fun fact:** I turn coffee into code, sometimes into bugs, but mostly into great features!
+- ♟️ **Other interests:** Mastering coding strategies by day and chess strategies by night, exploring the outdoors, and capturing moments 📸.
+
+### 🧰 Languages, Technologies, and Tools
+
+### 📂 Featured Projects
+
+- **[DalVacationHome](https://github.com/aniketm07/DalVacationHome)**  
+  A serverless vacation home booking app with multi-factor authentication, real-time messaging, and a conversational chatbot for customer support. Built using AWS, GCP, Firebase, and more.
+
+- **[ClickClick](https://github.com/aniketm07/ClickClick)**  
+  A photo-sharing application with automated tagging using Amazon Rekognition and distributed system architecture. Deployed on Google Cloud Run for a seamless user experience.
+
+- **[OmniGPT](https://omnigpt-geeks.netlify.app/)**  
+  A React app integrating multiple GPT models, enhancing usability with conversation exports, JSON imports, and real-time tracking.
+
+- **[GrowBiz](https://github.com/aniketm07/GrowBiz)**  
+  A service marketplace where I led backend development, implementing RESTful APIs, TDD practices, and optimizing for maintainability.
+
+## 📫 Connect with Me
+
+- **Email:** [mhatreaniket121@gmail.com](mailto:mhatreaniket121@gmail.com)
+- **LinkedIn:** [linkedin.com/in/maniket](https://linkedin.com/in/maniket)
+- **GitHub:** [github.com/aniketm07](https://github.com/aniketm07)
+
+Let's connect! Whether it’s for tech projects, coding banter, or just good coffee recommendations. ☕
