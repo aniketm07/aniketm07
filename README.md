@@ -11,7 +11,7 @@ I am a Master’s student in Applied Computer Science at Dalhousie University. P
 - ☕ **Fun fact:** I turn coffee into code, sometimes into bugs, but mostly into great features!
 - ♟️ **Other interests:** Mastering coding strategies by day and chess strategies by night, exploring the outdoors, and capturing moments 📸.
 
-### 🧰 Languages, Technologies, and Tools
+[//]: <> ### 🧰 Languages, Technologies, and Tools
 
 ### 📂 Featured Projects
 
