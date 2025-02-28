@@ -5,7 +5,7 @@ I am a Master’s student in Applied Computer Science at Dalhousie University. P
 ## 🚀 About Me
 
 - 🌱 Currently honing my skills in advanced software development, with a focus on **AWS** and **Azure** cloud-native applications.
-- 💼 Former Software Engineer at **Oracle** (OFSS) with extensive experience in backend optimization.
+- 💼 Former Software Engineer 2 at **Oracle** (OFSS) with extensive experience in backend optimization.
 - 🔭 Skilled in building scalable **microservices**, implementing secure APIs, and creating interactive web applications.
 - 🏆 Awarded **‘Rising Star’** for providing exceptional triage support to cross-functional teams at Oracle.
 - ☕ **Fun fact:** I turn coffee into code, sometimes into bugs, but mostly into great features!
