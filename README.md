@@ -31,3 +31,5 @@ I am a Master’s student in Applied Computer Science at Dalhousie University. P
 - **LinkedIn:** [linkedin.com/in/maniket](https://linkedin.com/in/maniket)
 
 Let's connect! Whether it’s for tech projects, coding banter, or just good coffee recommendations. ☕
+
+[![Visits Badge](https://badges.pufler.dev/visits/aniketm07/aniketm07)](https://github.com/aniketm07)
