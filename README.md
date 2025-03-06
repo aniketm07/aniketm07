@@ -11,6 +11,8 @@ I am a Master’s student in Applied Computer Science at Dalhousie University. P
 - ☕ **Fun fact:** I turn coffee into code, sometimes into bugs, but mostly into great features!
 - ♟️ **Other interests:** Mastering coding strategies by day and chess strategies by night, exploring the outdoors, and capturing moments 📸.
 
+![Visitor Count](https://komarev.com/ghpvc/?username=aniketm07&color=blue)
+
 <!--- ### 🧰 Languages, Technologies, and Tools
 --->
 
@@ -31,6 +33,4 @@ I am a Master’s student in Applied Computer Science at Dalhousie University. P
 - **LinkedIn:** [linkedin.com/in/maniket](https://linkedin.com/in/maniket)
 
 Let's connect! Whether it’s for tech projects, coding banter, or just good coffee recommendations. ☕
-
-![Visitor Count](https://komarev.com/ghpvc/?username=aniketm07&color=blue)
 
