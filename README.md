@@ -33,3 +33,5 @@ I am a Master’s student in Applied Computer Science at Dalhousie University. P
 Let's connect! Whether it’s for tech projects, coding banter, or just good coffee recommendations. ☕
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aniketm07&color=blue)
+![Profile Views](https://visitcount.itsvg.in/api?id=aniketm07&label=Profile%20Views&color=12&icon=5&pretty=true)
+
