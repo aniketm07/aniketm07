@@ -32,4 +32,4 @@ I am a Master’s student in Applied Computer Science at Dalhousie University. P
 
 Let's connect! Whether it’s for tech projects, coding banter, or just good coffee recommendations. ☕
 
-[![Visits Badge](https://badges.pufler.dev/visits/aniketm07/aniketm07)](https://github.com/aniketm07)
+![Visitor Count](https://komarev.com/ghpvc/?username=aniketm07&color=blue)
